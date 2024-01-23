@@ -2,7 +2,9 @@
 
 I´m André <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I live in Cocal do Sul, Santa Catarina. Currently, I am navigating the JavaScript full-stack path as I embark on my journey to work as a web developer. My goal is to address real-world issues by crafting websites and applications that enhance people's lives. I possess a natural curiosity about how and why things operate, and I am consistently eager to expand my knowledge. Feel free to explore some of my ongoing projects:
+I live in Cocal do Sul, Santa Catarina. My goal is to bring, acting on Software Development, projects and solutions by crafting websites and applications that enhance people's lives. I a naturaly curious person, and I have interests on absorve knowledgement from many areas. 
+Currently, I am working on web development projects on JavaScript using technologies like Node.js, React, and also Typescript. I also worked on projects using like computer vision and automation, with Python.
+Feel free to explore some of my ongoing projects:
 
 # Tech Stack
 <div align = center"><br>
